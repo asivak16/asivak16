@@ -1,8 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Ajith Sivakumar, a recent Master's graduate in Information Technology from Arizona State University. Specializing in Software Engineering and Cloud Solutions, I've honed my skills in Python, React, JavaScript, SQL, and AWS.<br><br>🎓 I've tackled challenges such as optimizing data processes at Logitech and enhancing software functionalities at Arizona State University. <br><br>🌟 As a new grad, I'm eager to apply my expertise in innovative tech environments and contribute to impactful projects.<br><br>🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/asivak16/) or explore my projects here on GitHub!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asivak16/) 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
